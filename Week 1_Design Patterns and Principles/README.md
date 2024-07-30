@@ -4,6 +4,4 @@
 
 ### Email : sumitdas8740@gmail.com
 
-### GitHub Repository :
-
 ### Week 1 : Design Pattern and Principles
